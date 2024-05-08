@@ -19,7 +19,7 @@ To get Openship running on your local machine:
 ### Clone the repo
 
 ```
-git clone https://github.com/openshiporg/openship
+git clone https://github.com/filipmariania/Shopify-Openship.git
 ```
 
 ### Rename example.env to .env
